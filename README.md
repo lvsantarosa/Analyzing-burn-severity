@@ -13,15 +13,15 @@ Customize the script according to your study area, date range, and other paramet
 
 View the results on the map and export the burn severity layer.
 
-###Script Components
+### Script Components
 Script File: [burn_severity_analysis.py](https://colab.research.google.com/drive/1p4fZebG4YU8CBBNzvIGgEHXI0JBfGfsC?usp=sharing)
 
-###Acknowledgements
+### Acknowledgements
 Google Earth Engine
 geemap
 OpenAI GPT-3
 
-###Author
+### Author
 Lucas Vituri Santarosa
 
 Contributing
