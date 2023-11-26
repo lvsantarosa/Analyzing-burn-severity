@@ -1,4 +1,4 @@
-# Analyzing-burn-severity
+# Analyzing burn severity
 
 
 ## Overview
