@@ -6,8 +6,6 @@
 This repository contains a Python script for analyzing burn severity using Google Earth Engine and geemap. The script calculates the normalized burn ratio (NBR) and the difference normalized burn ratio (dNBR) to assess burn severity after a fire event.
 
 ## Requirements
-
-- Python 3.x
 - geemap
 - Earth Engine Python API
 
