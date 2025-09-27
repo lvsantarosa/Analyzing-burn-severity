@@ -10,6 +10,3 @@ This repository contains a Python script for analyzing burn severity using Googl
 - Earth Engine Python API
 
 Customize the script according to your study area, date range, and other parameters.
-
-Script File: [burn_severity_analysis.py](https://colab.research.google.com/drive/1p4fZebG4YU8CBBNzvIGgEHXI0JBfGfsC?usp=sharing)
-
